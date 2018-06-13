@@ -10,7 +10,9 @@ class MyComponent extends React.Component{
     render(){
         return (
             <div>
-                <p>My Component!!</p>
+                <p id='mycomp'>My Component!!</p>
+                User Name
+                <input type='text' name='username' />
             </div>
         );
     }
