@@ -1,4 +1,4 @@
-module.exports = {
+/*module.exports = {
     'Demo test Google' : function (client) {
       client
         .url('http://localhost:3000/')
@@ -14,4 +14,5 @@ module.exports = {
         .end();
     }
   };
+  */
   
